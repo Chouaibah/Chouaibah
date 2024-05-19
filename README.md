@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Chouaibah
-- 👀 I’m interested in networking and Antenna
-- 🌱 I’m currently learning Telecommunication engineerig
+Hello, 
 
-<!---
-Chouaibah/Chouaibah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+This my first Project in github , Raspberry Pi Pico with Module GSM SIM800L EVB 
+This Projet am make in univertsité ( Projet Fin de Cycle )
+the main Objectif of this project is to send data collecte over Raspberry Pi Pico if it gets a call 
