@@ -9,3 +9,6 @@ We use UART protocole for construct connection between Raspbeery Pi Pico and GSM
 for the programme i use micropython language , search UF2 file and install to your Pico ! 
 
 Enjoy ! 
+
+
+Note : if you get connection problem in your SIM800L EVB , you should to use 10 watte or upper cable 
