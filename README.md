@@ -4,7 +4,7 @@ This my first Project in github , Raspberry Pi Pico with Module GSM SIM800L EVB 
 
 ![reel_montage](https://github.com/Chouaibah/Chouaibah/assets/158000674/064e16bf-dff2-458a-a08c-f8b2b1036633)
 
-We use UART protocole for make connection between Raspbeery Pi Pico and GSM SIM800L
+We use UART protocole for construct connection between Raspbeery Pi Pico and GSM SIM800L
 
 for the programme i use micropython language , search UF2 file and install to your Pico ! 
 
